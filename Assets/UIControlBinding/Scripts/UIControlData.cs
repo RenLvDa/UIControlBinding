@@ -89,6 +89,10 @@ namespace SDGame.UITools
             { "Canvas", typeof(Canvas)},
             { "ScrollRect", typeof(ScrollRect)},
             { "SpriteRenderer", typeof(SpriteRenderer)},
+            { "GridLayoutGroup", typeof(GridLayoutGroup) },
+            { "Animation", typeof(Animation) },
+            { "VideoPlayer", typeof(UnityEngine.Video.VideoPlayer) },
+            { "CanvasGroup", typeof(CanvasGroup) },
 
             ////////自定义控件类型请放这里////////
 
